@@ -28,8 +28,7 @@ I solve them using an analytical solution, which can be in a closed or recursive
 		
     3. Optional, bonus: Compute the average distance between the nodes on the graph. Assume that n is sufficiently large
 
- - [__hit__](../blob/master/critical_hit.py) - This came up when reading [this](https://probablydance.com/2019/08/28/a-new-algorithm-for-controlled-randomness/) article 
-found on hackernews. As the author states:
+ - [__hit__](../blob/master/critical_hit.py) - This came up when reading [this](https://probablydance.com/2019/08/28/a-new-algorithm-for-controlled-randomness/) article on probablydance.com blog, found on hackernews. As the author states:
   
     <<< The description of the problem is this: An enemy is supposed to drop a crucial item 50% of the time.
     Players fight this enemy over and over again, and after fighting the enemy ten times the item still hasn’t dropped.
