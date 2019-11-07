@@ -3,7 +3,7 @@
 
 Here I report solutions of some probability-related riddles and curiosities that I found around.
 
-I solve them using an analytical solution, which can be in a closed or recursive form (recursive implemented with dyn. progr.), and evaluate its correctness simulating the random process many times and obtaining the result.
+I solve them using an analytical solution, which can be in a closed or recursive form (recursive implemented with dynamic programming), and evaluate its correctness simulating the random process many times and obtaining the result.
 
 ---
 
