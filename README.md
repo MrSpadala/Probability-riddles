@@ -45,3 +45,7 @@ or a three when we say "Three!" the game is lost.
 Which is the probabiliy of winning?   
 
     Spoiler: it is very low, with the italian deck (40 cards) you have 0.8307% winning chance  
+
+ - [__observe all cards__](../master/observe_all.py) - Suppose having a card deck with M cards. Consider the following experiment: for N>=M times, pick a card, write it down and re-insert it in the deck.
+
+What is the probability that you observe all the M cards in the deck with N tries?   
